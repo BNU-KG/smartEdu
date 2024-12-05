@@ -23,4 +23,3 @@ python main.py
 ```sh
 set links in link.txt 
 ```
-# smartEdu
