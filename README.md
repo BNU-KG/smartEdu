@@ -6,7 +6,7 @@ git clone git@github.com:BNU-KG/smartEdu.git
 ```
 2、Enter the project code path
 ```
-cd smartedu-download
+cd smartEdu
 ```
 
 3、Install the environment dependencies
