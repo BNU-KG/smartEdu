@@ -1,25 +1,25 @@
-## 使用方法
-### 本地使用python运行
-1、下载项目文件（无git用户请自行网页下载）
+## Usage 
+### Run locally using Python
+1、Download the project files
 ```
-git clone https://github.com/52beijixing/smartedu-download.git
+git clone git@github.com:BNU-KG/smartEdu.git
 ```
-2、进入项目代码路径
+2、Enter the project code path
 ```
 cd smartedu-download
 ```
 
-3、安装环境依赖
+3、Install the environment dependencies
 ```
 pip install -U -r requirements.txt
 ```
 
-4、运行项目
+4、Run the project
 ```
 python main.py
 ```
 
-5、链接设置
+5、Link settings
 ```sh
 set links in link.txt 
 ```
